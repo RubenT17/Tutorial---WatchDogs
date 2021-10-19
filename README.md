@@ -11,7 +11,7 @@ Los requisitos para ejecutar este proyecto son:
 
 ## Información 📦
 
-Para más información ver [aquí](https://github.com/RubenT17/Tutorial---WatchDogs/blob/main/info)
+Para más información ver [aquí](https://github.com/RubenT17/Tutorial---WatchDogs/blob/main/info).
 
 ## Construido con 🛠️
 
